@@ -4,11 +4,10 @@ Parabéns, você passou para a segunda fase do processo seletivo da MáximaTech 
 
 ## Instruções
 
-1. Criar um fork deste repositório e implementar o aplicativo conforme instruções abaixo.
-2. Abrir um merge request para este repositório para que possamos avaliar o seu código.
-3. Enviar um e-mail para talentoshumanos@maximatech.com.br com:
-4. Assunto: “[Teste Desenvolvedor C#] - Seu nome” 
-5. Corpo do e-mail: Link do Merge request
+1. Criar um fork deste repositório, transformar ele em privado, adicionar o nosso usuário (talentosmaxima) como colaborador e implementar o aplicativo conforme instruções abaixo.
+2. Enviar um e-mail para <talentoshumanos@maximatech.com.br> com:
+	* Assunto "[Teste Desenvolvedor C#] - Nome do candidato"
+	* Link: -> Repositório privado no Github.
 
 É hora do show!
 
