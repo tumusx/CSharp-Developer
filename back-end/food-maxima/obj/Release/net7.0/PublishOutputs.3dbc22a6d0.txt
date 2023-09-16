@@ -1,0 +1,12 @@
+C:\Users\muril\Desafios-Tecnicos\Maxima-C#\CSharp-Developer\back-end\food-maxima\bin\Release\net7.0\publish\food-maxima.exe
+C:\Users\muril\Desafios-Tecnicos\Maxima-C#\CSharp-Developer\back-end\food-maxima\bin\Release\net7.0\publish\appsettings.Development.json
+C:\Users\muril\Desafios-Tecnicos\Maxima-C#\CSharp-Developer\back-end\food-maxima\bin\Release\net7.0\publish\appsettings.json
+C:\Users\muril\Desafios-Tecnicos\Maxima-C#\CSharp-Developer\back-end\food-maxima\bin\Release\net7.0\publish\food-maxima.dll
+C:\Users\muril\Desafios-Tecnicos\Maxima-C#\CSharp-Developer\back-end\food-maxima\bin\Release\net7.0\publish\food-maxima.deps.json
+C:\Users\muril\Desafios-Tecnicos\Maxima-C#\CSharp-Developer\back-end\food-maxima\bin\Release\net7.0\publish\food-maxima.runtimeconfig.json
+C:\Users\muril\Desafios-Tecnicos\Maxima-C#\CSharp-Developer\back-end\food-maxima\bin\Release\net7.0\publish\food-maxima.pdb
+C:\Users\muril\Desafios-Tecnicos\Maxima-C#\CSharp-Developer\back-end\food-maxima\bin\Release\net7.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\muril\Desafios-Tecnicos\Maxima-C#\CSharp-Developer\back-end\food-maxima\bin\Release\net7.0\publish\Microsoft.OpenApi.dll
+C:\Users\muril\Desafios-Tecnicos\Maxima-C#\CSharp-Developer\back-end\food-maxima\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\muril\Desafios-Tecnicos\Maxima-C#\CSharp-Developer\back-end\food-maxima\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\muril\Desafios-Tecnicos\Maxima-C#\CSharp-Developer\back-end\food-maxima\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
